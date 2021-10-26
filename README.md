@@ -23,7 +23,6 @@
 
 ## Meus hobbies:
 
-👨🏻‍💻 Desenvolver projetos de programação e Arduino;<br />
 🏕️ Fazer trilha na floresta e nadar em cachoeiras;<br />
 📷 Fotografar a natureza;<br />
 🏍️ Viajar de moto;<br />
@@ -43,7 +42,6 @@ alt="React logo" title="React.js / React Native" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=589636" alt="MongoDB logo" title="Mongo" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node logo" title="Node" height="25" />
 <img src="https://img.shields.io/badge/Express-282C34?logo=Express&logoColor=#339933" alt="Express logo" title="Express" height="25" />
-<img src="https://img.shields.io/badge/Arduino-282C34?logo=Arduino&logoColor=#00989d" alt="Arduino logo" title="Arduino" height="25" />
 <img src="https://img.shields.io/badge/Heroku-282C34?logo=Heroku&logoColor=#00989d" alt="Heroku logo" title="Heroku" height="25" />
 <br />
 <br />
@@ -62,6 +60,7 @@ alt="Python logo" title="Python" height="25" />
 <img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=white" alt="Java logo" title="Java" height="25" />
 <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=2496ed"
 alt="Docker logo" title="Docker" height="25" />
+<img src="https://img.shields.io/badge/Arduino-282C34?logo=Arduino&logoColor=#00989d" alt="Arduino logo" title="Arduino" height="25" />
 <br />
 <br />
 
