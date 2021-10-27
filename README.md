@@ -2,17 +2,13 @@
 
 <!-- ![LinkedIn](IMG_20190120_181535.jpg) -->
  
-<div>
-<img src='IMG_20190120_181535.jpg' width='600px'>
-</div>
-
  ## Sou estudante de Desenvolvimento de Software na [Trybe!](https://www.betrybe.com/) 👨🏻‍💻
 
 <span>
+ 
+ ## Um pouco sobre mim: &#129409;
 
- ## Um pouco sobre mim:
-
- 👷🏻‍♂️ Sou formado em engenharia mecanica, mas durante o curso eu descobri que a minha paixão/vocação era com a programação;<br />
+ 🦾 Sou formado em engenharia mecanica, mas durante o curso eu descobri que a minha paixão/vocação era com a programação;<br />
  👨🏻‍💻 Adoro programar e estou dedicado a seguir carreira como desenvolvedor;<br />
  ⚙️ Gosto de mesclar diferentes áreas do conhecimento;<br />
  💡 Eu dou muito valor a colaboração, então se eu puder ajudar em algo, é só chamar;<br />
@@ -25,7 +21,7 @@
 
 🏕️ Fazer trilha na floresta e nadar em cachoeiras;<br />
 📷 Fotografar a natureza;<br />
-🏍️ Viajar de moto;<br />
+🏍️ Viajar de moto;<br /> 
 <br />
 </span>
 
@@ -64,8 +60,10 @@ alt="Docker logo" title="Docker" height="25" />
 <br />
 
 # Minha vida no gitbub:
+<div display="flex">
 <img src='https://github-readme-stats.vercel.app/api?username=rogerio-lambert&theme=dracula&show_icons=true'><br />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio-lambert&layout=compact&theme=dracula&show'><br />
+</div>
 <br />
 
 # Me siga nas redes sociais:
